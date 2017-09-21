@@ -29,3 +29,11 @@ servers:
     name: eniac.flipflappe.rs
     admin_nick: zero
     location: DE
+  -
+    name: hunter.2f30.org
+    admin_nick: sin
+    location: NL
+  -
+    name: vortex.2f30.org
+    admin_nick: sin
+    location: NL
