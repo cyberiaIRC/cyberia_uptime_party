@@ -1,5 +1,8 @@
 Website of cyberia.uptime.party
 
+A bundle of hacks
+run write_servers.pl if you want to generate the servers page
+
 All content Copyright (C) 2017 Al Beano <albino@autistici.org> and subject to the
 terms in the `COPYING` file, with the following exceptions:
  * cyb.webm and telelines.jpg are property of their respective owners

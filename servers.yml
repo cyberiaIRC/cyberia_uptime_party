@@ -1,0 +1,31 @@
+servers:
+  -
+    name: cyberia.uptime.party
+    note: this server
+    admin_nick: albino
+    location: CZ
+    extra_addrs:
+      -
+        addr: mmgjqbf4c3nc3eyu.onion
+        note: Tor HS
+  -
+    name: cyberiairo7us642.onion
+    note: Tor HS only
+    admin_nick: em
+    location: SE
+  -
+    name: irc.the.worst.is
+    admin_nick: plue
+    location: NL
+  -
+    name: serotonin.lain.sh
+    admin_nick: plue
+    location: NL
+    extra_addrs:
+      -
+        addr: mpm4eq6evshl2qd2.onion
+        note: Tor HS
+  -
+    name: eniac.flipflappe.rs
+    admin_nick: zero
+    location: DE
