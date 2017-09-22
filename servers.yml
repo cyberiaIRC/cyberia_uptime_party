@@ -37,3 +37,7 @@ servers:
     name: vortex.2f30.org
     admin_nick: sin
     location: NL
+  -
+    name: shannon.2f30.org
+    admin_nick: sin
+    location: JP
