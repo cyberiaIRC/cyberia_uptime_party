@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/albino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cyberia.uptime.party
+  * I am albino (https://keybase.io/albino) on keybase.
+  * I have a public key with fingerprint E57E CB90 D60A 1B6E F5B7  F2BB 073D 2C0E DD35 879A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f9be008df5ea6e83419cd8b4c650ab1bcd09e7f10d2c4f1ccb55d2613b1969a70a",
+      "fingerprint": "e57ecb90d60a1b6ef5b7f2bb073d2c0edd35879a",
+      "host": "keybase.io",
+      "key_id": "073d2c0edd35879a",
+      "kid": "0101f9be008df5ea6e83419cd8b4c650ab1bcd09e7f10d2c4f1ccb55d2613b1969a70a",
+      "uid": "f18356842c82eb30da98e5dffeada319",
+      "username": "albino"
+    },
+    "merkle_root": {
+      "ctime": 1506185680,
+      "hash_meta": "b5c93235781370aa4ef3a1171eb2f5973883a78ddb816df6de477db4ba59e85c",
+      "seqno": 1448791
+    },
+    "revoke": {
+      "sig_ids": [
+        "e79ce6f0619b011f7a1346d8981f7344a0c5cb131d1ceb7a3403c76847becd230f"
+      ]
+    },
+    "service": {
+      "hostname": "cyberia.uptime.party",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506185726,
+  "expire_in": 157680000,
+  "prev": "2955e84f0e3879d48cee71828a7f5b4963dd1eacfd36a7170547d4bb39a56c1a",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU39MVVUcfyCQmKImUUvG9AopQnTO/X2fAwszy1ltkm0q+nZ+Xbjj8e7zvvfA
+N2Na07R0JmqhLp2Qv9IibOrmD5QthRWQUqjNTPHHpvyYmhrOROhcs7XWv91/zr13
+n1/fzzlnzbBBntiYJ3Kzk35Vlm+Kae7EntmNa+MWCdimUcG7SChhjxbmpywU9pVY
+VPAKAAJoGpgBoFNTYUhluiRDg1Ady0RVAMIQEwoMppkQUJHIJiQEKwoVVShhaKgG
+0gASsgXTChQxJ+hYgTCXZYrGCDYAVQGCWGWmgjVTxBhoEhcBjFJJ0TXDJRbbIZfB
+w2EUYjmWzf/xD99f8f6L/59zRx7JmVCXFFWXRaKLDEuAIkNnCjVNhiiSoOECQ8wJ
+oFLG0ciPrYAtVGQLpcwp8TOfY9tht1oStlwAVIAKda4H+HgoVOwrZWHEeVghhiRK
+iqZDibsjmZkSglCDDIumYmiSrktI0ynFOlSpqVImaxrFMkaKwXSF8BQhtoA7e6Es
+8zogT+CwMruEueYhq4iXFhK8cwWmGYSpDRUmz2FgAKGpISjJKtUNnb9LsowAUQiG
+EqSQMKwhSQYS0XgDGmaEihIwhXkVrp1TZpFH8u4+PZ6fRDFzLJQTCbrz5gSRE47y
+bEHHDtvE9nNEcTgcDHndhsLRoEspZ9j3WMzHy6P8tHBGGXNClh3g83Dkv8vTRDVb
+YAuDlsN8lotQeDrAH9eHlXFJ0VAUpssmYBLvgso6YUyDuqgjjR832VAlSiFDxKSS
+ijSoAUXWqIyxZCBFJRD906Yo85yoiGvyDgMoHHGYUDHkw9jUOE9MrCchPta9R54h
+iSP+vlxnVg1/OJKgU5HvE59ZebDmo7kbE6Nvo6qFGf3nR/18uX1UWtuZ3BuDohuW
+153qr9s/ge0qmzWrFSVlwCf9J9QVGclTrnaCjuJI3/jgtKvb32/5o6do2Y4VZy/V
+vvjO02ntGx/cX7Egf3HHtfydu8c+/83l1dnnru3YM/z31q5DPYVdJ4/3zVg51lwb
+PVJ1b0bL9bd6cy4lGOvH3xx4Zcu+vHHHEuq61uR+vPk+bJ8iJmXMXNP7S4sv1HD3
+hYw9Xy7OXFnbvC6rJ/6N27PL+1qub3uucnBa3qHbVmH5gaXeE8e39ay6EX924AOj
+eGrdjeYfto5u+fHdg/M9KU1V+yalvrY5eXPbhMWlRwd7cjPTkjZu9w/cnLN2a1ZC
++Lzj7y1Ib9xyrOTlZZ95D7fnT79ozds6cDAl0lR/sq8uzvPJ/oXg0LBbVQ/vVJau
+q27tsB/0tk0MPXUi3fdVYVaj1FT8E8kZ6C1I+XpPNfni0yOvnn6Pzknde3jb/Aup
+OaNrqs9OzPPu7KrdVHC58/R4obIg4tzVr6fXj0n99sz05JTukc8umT01c+eV5edY
+yYXtb46qn9Yda5zsbmpt7hen9E2O3z1pzPpblS+1tJ32e+5Pnt+Y2NC9oXxv0cTv
+uu6lH+8+UDjuZr/xuZlRMSEm8/XkrKXdgdijjjVQlT/0t0BDnn/JiCv1RbtqLtqg
+ozY1/86BYU2dbVlxY4dmzp35Jw==
+=7OV5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/albino
+
+==================================================================
+
