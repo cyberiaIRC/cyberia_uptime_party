@@ -26,10 +26,6 @@ servers:
         addr: mpm4eq6evshl2qd2.onion
         note: Tor HS
   -
-    name: eniac.flipflappe.rs
-    admin_nick: zero
-    location: DE
-  -
     name: hunter.2f30.org
     admin_nick: sin
     location: NL
@@ -41,3 +37,11 @@ servers:
     name: shannon.2f30.org
     admin_nick: sin
     location: JP
+  -
+    name: tina.zm.is
+    admin_nick: sy
+    location: FR
+  -
+    name: eniac.flipflappe.rs
+    admin_nick: zero
+    location: DE
