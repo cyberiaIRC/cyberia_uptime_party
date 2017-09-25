@@ -26,6 +26,14 @@ servers:
         addr: mpm4eq6evshl2qd2.onion
         note: Tor HS
   -
+    name: at1.irc.cyb
+    admin_nick: plue
+    location: AT
+  -
+    name: se1.irc.cyb
+    admin_nick: plue
+    location: SE
+  -
     name: hunter.2f30.org
     admin_nick: sin
     location: NL
