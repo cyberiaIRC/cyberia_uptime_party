@@ -14,10 +14,6 @@ servers:
     admin_nick: em
     location: SE
   -
-    name: irc.the.worst.is
-    admin_nick: plue
-    location: NL
-  -
     name: serotonin.lain.sh
     admin_nick: plue
     location: NL
