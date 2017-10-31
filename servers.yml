@@ -33,6 +33,10 @@ servers:
     name: hunter.2f30.org
     admin_nick: sin
     location: NL
+    extra_addrs:
+      -
+        addr: hunter.2f30.dn42
+        note: DN42
   -
     name: vortex.2f30.org
     admin_nick: sin
