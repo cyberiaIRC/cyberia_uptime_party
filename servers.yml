@@ -14,6 +14,11 @@ servers:
     admin_nick: em
     location: SE
   -
+    name: iehzrpjyqrkbguwe.onion
+    note: Tor HS only
+    admin_nick: amber
+    location: ??
+  -
     name: hunter.2f30.org
     admin_nick: sin
     location: NL
