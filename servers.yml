@@ -17,6 +17,10 @@ servers:
     name: hunter.2f30.org
     admin_nick: sin
     location: NL
+    extra_addrs:
+      -
+        addr: hunter.2f30.dn42
+        note: DN42
   -
     name: vortex.2f30.org
     admin_nick: sin
@@ -25,6 +29,10 @@ servers:
     name: shannon.2f30.org
     admin_nick: sin
     location: JP
+    extra_addrs:
+      -
+        addr: shannon.2f30.dn42
+        note: DN42
   -
     name: tina.zm.is
     admin_nick: sy
