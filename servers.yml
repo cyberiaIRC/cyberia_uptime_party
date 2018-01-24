@@ -31,6 +31,10 @@ servers:
     admin_nick: sin
     location: NL
   -
+    name: qbit.2f30.org
+    admin_nick: sin
+    location: DE
+  -
     name: tina.zm.is
     admin_nick: sy
     location: FR
