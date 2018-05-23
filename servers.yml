@@ -9,15 +9,23 @@ servers:
         addr: mmgjqbf4c3nc3eyu.onion
         note: Tor HS
   -
-    name: cyberiairo7us642.onion
-    note: Tor HS only
-    admin_nick: em
-    location: SE
+    name: a.irc.cyberia
+    note: Tor HS only; Single Onion Mode
+    admin_nick: amber
+    location: CH
+    extra_addrs:
+      -
+        addr: 7phxhh4glwpjq72khzlqelb74qgfteba6tobb6onskl2veat3gfpecyd.onion
+        note: Tor HS
   -
     name: iehzrpjyqrkbguwe.onion
     note: Tor HS only
     admin_nick: amber
     location: ??
+    extra_addrs:
+      -
+        addr: cyberiairo7us642.onion
+        note: Tor HS
   -
     name: qbit.fz.is
     admin_nick: sin
